@@ -1,4 +1,6 @@
-# TietoKSovellus2020-RecipesTietokantasovellus – Harjoitustyön kuvaus
+# TietoKSovellus2020-Recipes
+
+Tietokantasovellus – Harjoitustyön kuvaus
 
 Työn aiheena on elektroninen reseptikirjasto. Palvelu tarjoaa käyttäjälle valmiita reseptejä, sisältäen tarvittavat ainesosat määrineen ja yksinkertaisine valmistusohjeineen. Reseptit voivat olla ruokia tai juomia. Jokaista reseptiä voi kombinoida kokonaiseen ateriaan, joka sisältää alkuruoan, pääruoan, jälkiruoan ja juoman. Kokonaisuuteen ei tarvitse ottaa mukaan kaikkia komponentteja vaan käyttäjä voi esimerkiksi muodostaa pelkän pääruoan tai vain juoman.
 
